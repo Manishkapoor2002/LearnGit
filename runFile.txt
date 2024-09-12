@@ -1,0 +1,1 @@
+this file run all the testcases in the test folder's file
