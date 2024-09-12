@@ -2,3 +2,4 @@ this is tesing file
 this file will find bug and then fix it !!
 this is the next line 
 bug fixed
+this bug is also fixed
